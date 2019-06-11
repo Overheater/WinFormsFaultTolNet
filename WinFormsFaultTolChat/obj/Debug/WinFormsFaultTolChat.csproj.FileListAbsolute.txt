@@ -1,0 +1,10 @@
+C:\Users\Ian\Documents\6890\WinFormsFaultTolChat\WinFormsFaultTolChat\bin\Debug\WinFormsFaultTolChat.exe.config
+C:\Users\Ian\Documents\6890\WinFormsFaultTolChat\WinFormsFaultTolChat\bin\Debug\WinFormsFaultTolChat.exe
+C:\Users\Ian\Documents\6890\WinFormsFaultTolChat\WinFormsFaultTolChat\bin\Debug\WinFormsFaultTolChat.pdb
+C:\Users\Ian\Documents\6890\WinFormsFaultTolChat\WinFormsFaultTolChat\obj\Debug\WinFormsFaultTolChat.csprojAssemblyReference.cache
+C:\Users\Ian\Documents\6890\WinFormsFaultTolChat\WinFormsFaultTolChat\obj\Debug\WinFormsFaultTolChat.Form1.resources
+C:\Users\Ian\Documents\6890\WinFormsFaultTolChat\WinFormsFaultTolChat\obj\Debug\WinFormsFaultTolChat.Properties.Resources.resources
+C:\Users\Ian\Documents\6890\WinFormsFaultTolChat\WinFormsFaultTolChat\obj\Debug\WinFormsFaultTolChat.csproj.GenerateResource.cache
+C:\Users\Ian\Documents\6890\WinFormsFaultTolChat\WinFormsFaultTolChat\obj\Debug\WinFormsFaultTolChat.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Documents\6890\WinFormsFaultTolChat\WinFormsFaultTolChat\obj\Debug\WinFormsFaultTolChat.exe
+C:\Users\Ian\Documents\6890\WinFormsFaultTolChat\WinFormsFaultTolChat\obj\Debug\WinFormsFaultTolChat.pdb
